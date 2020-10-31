@@ -1,0 +1,10 @@
+p {
+    width: 320px;
+    border: 2px solid #ff0000;
+    background: darkblue;
+    padding: 50px;
+    color: white;
+    font-size: 16mpx;
+    line-height: 1.5cm;
+    height: 400px;
+}
